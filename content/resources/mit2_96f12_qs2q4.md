@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-96-managem
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Exams
+ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Other

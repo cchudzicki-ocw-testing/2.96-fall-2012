@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Ratio Analysis Group Assignment
-type: OCWFile
 uid: 9f297cf3-1909-2252-3b39-b4edf38ff804
 ---

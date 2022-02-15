@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 2.96, Quiz Solutions Fall 2011
-type: OCWFile
 uid: 637177fa-87e0-d5aa-2d90-5acfc155c318
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 2.96, Problem Set Solution 1
-type: OCWFile
 uid: 81684c54-6e26-cd2b-c592-f003a75aba7f
 ---

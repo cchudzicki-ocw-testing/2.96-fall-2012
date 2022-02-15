@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: SUL Case Study
-type: OCWFile
 uid: 6b0b0e65-cbbd-7edb-2d02-e983a3582644
 ---

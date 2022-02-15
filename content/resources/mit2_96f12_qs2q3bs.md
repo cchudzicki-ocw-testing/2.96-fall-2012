@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Other
 title: MIT2_96F12_qs2Q3BS.xlsx
-type: OCWFile
 uid: 2c74fb55-2884-1a45-66b5-a584929a389d
 ---

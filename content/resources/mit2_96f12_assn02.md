@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Presenting Business Opportunities
-type: OCWFile
 uid: 220aba77-e88d-af6d-315e-8bc3668a392d
 ---

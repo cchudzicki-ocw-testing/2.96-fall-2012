@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Presenting Business Opportunities
-type: OCWFile
 uid: 0e1d0e2c-4e20-a482-ccff-bee2c6ae3217
 ---

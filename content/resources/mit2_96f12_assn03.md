@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: HP Printer Case Study & Questions
-type: OCWFile
 uid: 80948f4e-f7a3-fff0-cc9f-ab791ec72d61
 ---

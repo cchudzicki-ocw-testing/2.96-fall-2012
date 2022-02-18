@@ -73,7 +73,7 @@ Lynch, Merrill. [![This resource may not render correctly in a screen reader.](/
 Sales and Marketing I
 {{< tdclose >}}
 {{< tdopen >}}
-Weiss, Abbott. ["Presenting Business Opportunities." (PDF)]({{< baseurl >}}/resources/mit2_96f12_read01)
+Weiss, Abbott. {{< resource_link 0e1d0e2c-4e20-a482-ccff-bee2c6ae3217 "\"Presenting Business Opportunities.\" (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

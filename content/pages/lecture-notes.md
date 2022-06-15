@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and cases for the
+  course, along with lecture notes for selected lectures and context statements and
+  references for guest lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/2-96-management-in-engineering-fall-2012/9f297cf3190922523b39b4ed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
